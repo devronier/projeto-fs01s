@@ -1,4 +1,4 @@
-# Projeto Node.js
+# 🚀 Projeto Node.js
 
 Este é um projeto Node.js que utiliza diversas tecnologias para criar uma aplicação web.
 
@@ -20,7 +20,7 @@ Este é um projeto Node.js que utiliza diversas tecnologias para criar uma aplic
 2. Instale as dependências: `npm install`
 3. Execute o projeto: `npm start`
 
-## Configuração
+## 🛠️ Configuração
 
 Antes de iniciar o projeto, certifique-se de configurar as seguintes variáveis de ambiente no arquivo `.env`:
 
